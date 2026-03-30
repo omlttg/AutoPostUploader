@@ -1,0 +1,19 @@
+# Business Development (PRIVATE) - DO NOT PUSH
+roadmap.md
+
+# Environment Variables
+.env
+*.env.local
+
+# Dependency & Output
+node_modules/
+dist/
+build/
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# OpenSpec Private (Optional)
+/openspec/changes/archive/
